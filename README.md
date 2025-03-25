@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a web developer based in Viborg, Denmark, curently working at ENcombi as a frontend dev. 🚀<br><br>- 📚 Currently diving deep into building a time tracking tool for companies, where they can add employees and track all the hours worked. ⏱️<br><br>- ⚡ In my free time, you’ll find me gaming 🎮, crafting private projects 🛠️, exploring new technologies 👨‍💻, or tinkering with my existing projects just to see what else I can break and fix! 😅</p>
+<p align="left">- 🔭 I’m a frontend dev. based in Viborg, Denmark, curently working at ENcombi as a frontend dev. 🚀<br><br>- ⚡ In my free time, you’ll find me gaming 🎮, crafting private projects 🛠️, exploring new technologies 👨‍💻, or tinkering with my existing projects just to see what else I can break and fix! 😅</p>
 
 ###
 <br>
